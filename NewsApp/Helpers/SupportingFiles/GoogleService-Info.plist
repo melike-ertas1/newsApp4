@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1085090253676-fu3mo99b2ippkqrtm26df38dv89rtbe3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1085090253676-fu3mo99b2ippkqrtm26df38dv89rtbe3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDi9xJLLwCgp8vwo0ZAv0sq5GLeWfaTNKc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1085090253676</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>melike.NewsApp</string>
+	<key>PROJECT_ID</key>
+	<string>newsapp-19b98</string>
+	<key>STORAGE_BUCKET</key>
+	<string>newsapp-19b98.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1085090253676:ios:31091c493d27ff92f7c149</string>
+</dict>
+</plist>
